@@ -1,1 +1,2 @@
-Why call a plumber, when you can bend over and someone can watch your creVass?
+creVass is our intelligence-gathering reverse-Pandoras-box sucker-upper for the DRAIN.tips AI inference engine for plumbing, electric, gas, water, sewer, construction, HVAC, IT infosec, utility infrastructure, landscaping and other homeowner questions.
+
